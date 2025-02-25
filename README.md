@@ -26,7 +26,7 @@ This directory contains the configuration files of the project, such as the `set
 **Clone the repository**
 
 ```bash
-git clone https://github.com/Rohitisavailable/littlelemon.git && cd littlelemon
+git clone https://github.com/Rohitisavailable/Little-Lemon.git 
 ```
 
 **Create the virtual environment and install the dependencies**
@@ -34,7 +34,7 @@ git clone https://github.com/Rohitisavailable/littlelemon.git && cd littlelemon
 ```bash
 pipenv install
 ```
-
+**Run the server using**
 
 ```bash
 python manage.py runserver
