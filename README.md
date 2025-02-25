@@ -2,7 +2,6 @@
 
 # Description
 
-The LittleLemon API is the final assignment for the [APIs Course](https://www.coursera.org/learn/apis) part of the [Meta BackEnd Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) on [Coursera](https://www.coursera.org/).
 
 The API endpoints for this project provide the functionality to create, edit and delete users, roles for each user, such as Customer, Delivery Crew or Manager, menu items, categories for menu items,  shopping cart, and orders. Every API endpoint has authorization and permissions constraints as well as throttling, pagination, and filtering.
 
@@ -27,7 +26,7 @@ This directory contains the configuration files of the project, such as the `set
 **Clone the repository**
 
 ```bash
-git clone https://github.com/adolfojmnz/littlelemon.git && cd littlelemon
+git clone https://github.com/Rohitisavailable/littlelemon.git && cd littlelemon
 ```
 
 **Create the virtual environment and install the dependencies**
